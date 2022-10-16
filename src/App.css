@@ -1,0 +1,13 @@
+table {
+    width: 500px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+  }
+
+table tbody tr td {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "jsx",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@table-library/react-table-library": "^4.0.23"
+  }
+}
